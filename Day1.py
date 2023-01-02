@@ -19,7 +19,32 @@ print("This is also a new Start")
 
 # print("Hello", input("What is your name? "))
 
-name = input("What is your name? ")
-print(len(name))
+# name = input("What is your name? ")
+# print(len(name))
 
+#
+# a = input("a : ")
+# b = input("b: ")
+#
+# temp = a
+# a = b
+# b = temp
+#
+#
+#
+# print(a)
+# print(b)
+
+# x = "5"
+# print( "Hello " + x + " hello" )
+
+print("Welcome to the band name generator! ")
+
+city_born = input("What citiy were you born? \n")
+pet_name = input("What is the name of your pet? \n")
+
+print( "Your band name could be " ,city_born, pet_name)
+
+
+print("Day one is done!")
 
